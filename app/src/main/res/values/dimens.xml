@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_size">100dp</dimen>
+    <dimen name="padding">35dp</dimen>
+    <dimen name="etpadding">12dp</dimen>
+    <dimen name="etmargin">30dp</dimen>
+
+</resources>
